@@ -88,4 +88,4 @@ chmod +x WebGetter.sh
 
 # Credits:
 
-- Linktree: <a href="https://linktr.ee/armond0x">Armond</a>
+- Linktree: <a href="https://linktr.ee/armond0x">ARMOND</a>
